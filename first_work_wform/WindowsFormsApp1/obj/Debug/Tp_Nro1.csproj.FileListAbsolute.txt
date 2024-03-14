@@ -1,0 +1,3 @@
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp_Nro1_NicolasMuñozRead\WindowsFormsApp1\obj\Debug\Tp_Nro1.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp_Nro1_NicolasMuñozRead\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\Tp_Nro1_NicolasMuñozRead\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
